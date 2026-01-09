@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "643013739435",
+    "project_id": "voltnest-62547",
+    "storage_bucket": "voltnest-62547.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643013739435:android:674743edf9fe4e0c5548ee",
+        "android_client_info": {
+          "package_name": "com.example.voltev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643013739435-hu1f40otlqg6s1g0rrip4fgntmt2ko94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voltev",
+            "certificate_hash": "37d1565271e04a91bebe78925ea3b7583b194e11"
+          }
+        },
+        {
+          "client_id": "643013739435-suuas00i1u0p3d1m00ce05ujno8fru1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1trK4EmOhwRgvdu4g6YV3Axa-H7AxR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643013739435-suuas00i1u0p3d1m00ce05ujno8fru1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643013739435-i0n29qsegurjkvqr6fopc2pra2a214mu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voltev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
