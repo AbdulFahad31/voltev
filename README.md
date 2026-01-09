@@ -1,16 +1,54 @@
-# voltev
+VoltEV – EV Charging Slot Booking Application
 
-A new Flutter project.
+VoltEV is a Flutter-based mobile application designed to simplify electric vehicle charging by allowing users to discover nearby charging stations, view real-time charger availability, and book charging slots in advance. The app aims to reduce waiting time at charging stations and provide a seamless digital experience for EV users.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+User authentication using Firebase
 
-A few resources to get you started if this is your first Flutter project:
+Real-time charging station and slot availability
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Slot booking and management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Payment and session tracking
+
+Push notifications for booking updates and reminders
+
+Admin panel for managing stations, chargers, and slots
+
+🛠 Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend: Firebase (Authentication, Firestore, Cloud Functions)
+
+Notifications: Firebase Cloud Messaging
+
+Maps & Location: Google Maps / Mapbox
+
+📱 Application Flow
+
+User registers and logs in
+
+Nearby charging stations are displayed
+
+User selects a station and charger
+
+Available time slots are shown in real time
+
+User books a slot and completes payment
+
+Notifications are sent for booking confirmation and reminders
+
+🎯 Purpose
+
+VoltEV is built to support the growing adoption of electric vehicles by providing a reliable, real-time, and user-friendly charging slot booking system. It helps both EV drivers and station operators manage charging efficiently.
+
+📂 Project Status
+
+This project is under active development. Core features including authentication, station listing, slot booking, and notifications are implemented. Payment gateway and deployment are in progress.
+
+👨‍💻 Developer
+
+Abdul Fahad
+Flutter Developer | Firebase | Mobile App Development
